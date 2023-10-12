@@ -4,6 +4,12 @@ https://devpost.com/software/funny-name
 
 # Albumify: 🎵🌟 Automatic Album Cover Generator for Spotify Playlists 🎨🔥
 
+# Team
+- Akshat Shah
+- Hanz Po
+- Tony Qiu
+- Tyler Wright
+
 ## Inspiration 💡💭
 
 The inspiration behind Albumify came from our shared love for music and our burning desire to enhance the visual experience of Spotify playlists. We often found ourselves creating and sharing playlists with friends, but they lacked the personal touch that album covers provide. We wanted to automate the process of creating unique and eye-catching album covers for our playlists. 🚀🎶
